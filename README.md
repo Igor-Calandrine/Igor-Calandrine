@@ -58,11 +58,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 ## 🌃 Estatísitcas
 
-<p>
-  <img
-      align="left"
-      height="200"
-      style="padding-right:15px;"
-      src="https://github-readme-stats.vercel.app/api?username=Igor-Calandrine&show_icons=true"
-   />
-</p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Igor-Calandrine&theme=2077" alt="Top languages by repo badge"/>
