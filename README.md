@@ -61,7 +61,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 <img 
 align="left"
 style="padding-right:15px;"
-src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Igor-Calandrine&theme=tokyonight" alt="Top linguagens por repositório"/>
+src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Igor-Calandrine&theme=2077&custom_title=Top%20Linguagens"/>
 
 <img 
 align="left"
