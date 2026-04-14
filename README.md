@@ -65,11 +65,11 @@ style="padding-right:15px;"
 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Igor-Calandrine&theme=tokyonight"/>
 
 <img 
-align="left"
-height="150"
+align=""
 style="padding-right:15px;"
-src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Igor-Calandrine&theme=tokyonight" alt="Estatus Geral"/>
+src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Igor-Calandrine&theme=tokyonight&layout=compact" alt="Estatus Geral"/>
+
+<br/>
 
 ### 📔 Web Pages
-
-BIKCRAFT (https://igor-calandrine.github.io/bikecraft/)
+**BIKCRAFT** (https://igor-calandrine.github.io/bikecraft/)
