@@ -65,13 +65,12 @@ style="padding-right:15px;"
 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Igor-Calandrine&theme=tokyonight"/>
 
 <img 
-align=""
 style="padding-right:15px;"
 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Igor-Calandrine&theme=tokyonight&layout=compact" alt="Estatus Geral"/>
 
 <br/>
-<br/>
 
-### 📔 Web Pages
+## 📔 Web Pages
 
 **BIKCRAFT** (https://igor-calandrine.github.io/bikecraft/)
+**Aula Particular** (https://igor-calandrine.github.io/Pagina-Aula-Particular/)
