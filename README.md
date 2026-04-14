@@ -70,6 +70,8 @@ style="padding-right:15px;"
 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Igor-Calandrine&theme=tokyonight&layout=compact" alt="Estatus Geral"/>
 
 <br/>
+<br/>
 
 ### 📔 Web Pages
+
 **BIKCRAFT** (https://igor-calandrine.github.io/bikecraft/)
